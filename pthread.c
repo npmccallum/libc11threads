@@ -20,6 +20,7 @@
 #include "threads.h"
 
 #include <errno.h>
+#include <sched.h>
 #include <stdint.h>
 #include <stdlib.h>
 
